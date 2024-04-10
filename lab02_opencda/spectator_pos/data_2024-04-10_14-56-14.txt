@@ -1,0 +1,2 @@
+Carla/Maps/Town06
+Transform(Location(x=43.490765, y=-15.743114, z=0.948508), Rotation(pitch=-1.603667, yaw=-2.285522, roll=0.000004))
