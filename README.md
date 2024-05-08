@@ -1,5 +1,8 @@
 # CEE298-2024Spring
 
+Colab Prediction Code:
+- [Colab](https://colab.research.google.com/drive/1PNWgrweI2q4AHb-v6SKcx_RisME36srR?usp=sharing)
+
 Dataset and Pre-trained model can be downloaded here:
 - [Google Drive link](https://drive.google.com/drive/folders/1TkQ5Gx5H7aH_WeL3hHlb3M2ykOIBM02C?usp=drive_link)
 
